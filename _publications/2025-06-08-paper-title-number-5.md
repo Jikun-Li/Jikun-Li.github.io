@@ -1,7 +1,6 @@
 ---
 title: "Twisting map and Adams spectral sequence"
 collection: In preparation
-permalink: /publication/2024-02-17-paper-title-number-4
 paperurl: 'https://Jikun-Li.github.io/assets/JikunLi Draftv3.pdf'
 ---
 
