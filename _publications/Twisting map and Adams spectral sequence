@@ -3,7 +3,8 @@ title: "Twisting map and Adams spectral sequence"
 collection: publications
 permalink: 'https://Jikun-Li.github.io/files/JikunLi Draftv3.pdf'
 excerpt: "This is a complete paper, but still under improvement."
+date: 2025-10
 category: drafts
 ---
-
-
+As you know, the secondary Steenrod algebra is computable because it’s defined over Z/p^2, which allows one to model it as a differential graded algebra. However, this approach doesn’t seem to extend naturally to higher Steenrod algebras. Motivated by your work and its generalization in “Abstract Goerss–Hopkins Theory” by Piotr Pstrągowski and Paul VanKoughnett, I have been working in the setting of synthetic spectra, where I constructed a concrete quasi-category model in which each object can be viewed as a diagram of discrete comodules. This setup makes elementwise computation possible.
+I use the Θ-functor introduced in “On Brauer Groups of Lubin–Tate Spectra” and it seems to encode the differential information in Adams spectral sequences when interpreted within synthetic spectra. With this perspective, I can capture the essence of the secondary Steenrod algebra and see more clearly what should be computed for its higher analogues, which I describe as “twisting maps” in this paper. While the work doesn’t yet yield new computations, it does help clarify what needs to be done in order to generalize the secondary Steenrod algebra further.
