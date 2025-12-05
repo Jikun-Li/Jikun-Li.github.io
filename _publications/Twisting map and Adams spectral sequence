@@ -9,4 +9,4 @@ pdf_url: /files/JikunLi Draftv3.pdf
 ---
 This is the abstract.
 
-[Download Draft PDF]({{ page.pdf_url }})
+<a href="{{ page.pdf_url }}">Download Draft Paper</a>
