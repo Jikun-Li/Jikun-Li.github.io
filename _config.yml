@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "China"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Jikun Li's Homepage"
 title_separator          : "-"
@@ -23,7 +23,7 @@ repository               : "Jikun-Li/Jikun-Li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jikunli.jpg"
   name             : "Jikun Li"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "China"
