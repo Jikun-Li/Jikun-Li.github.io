@@ -7,3 +7,6 @@ excerpt: "This is a complete paper, but still under improvement."
 category: drafts
 pdf_url: /files/JikunLi_Draftv3.pdf
 ---
+This is the abstract.
+
+[Download Draft PDF]({{ page.pdf_url }})
