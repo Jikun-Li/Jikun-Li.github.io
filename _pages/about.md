@@ -10,8 +10,6 @@ I am Jikun Li, a senior math major at Peking University. I am currently interest
 
 You can find my CV here: [CV](..//assets/CV.pdf)
 
----
 My research
 =====
-
 1. [Twisting map and Adams spectral sequence](..//files/JikunLi Draftv3.pdf): This is a complete paper but still under improvement. 
